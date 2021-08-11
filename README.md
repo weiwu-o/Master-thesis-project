@@ -5,3 +5,8 @@ Sequential Anomaly Detection for Log Data Using Deep Learning
 
 
 The main sourse is a articel from logPAI: <https://www.cs.utah.edu/~lifeifei/papers/deeplog.pdf>
+
+- Unidirecitonal Long short-term Memory
+- Bidirectional Long short-term Memory
+- Seq2seq 
+- Transformer
