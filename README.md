@@ -1,5 +1,5 @@
 
-
+![Screenshot](image_workflow.jpg)
 # Master-thesis-project
 Sequential Anomaly Detection for Log Data Using Deep Learning
 
