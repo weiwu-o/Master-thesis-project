@@ -8,11 +8,11 @@ The main sourse is a articel from logPAI: <https://www.cs.utah.edu/~lifeifei/pap
 
 And we uesed their data and build a model:
 
-- Unidirecitonal Long short-term Memory
+- Unidirecitonal Long short-term Memory (Uni-LSTN)
 
 Next we have an extend version model:
 
-- Bidirectional Long short-term Memory
+- Bidirectional Long short-term Memory (Bi-LSTM)
 
 However, the above models need a threshold which will plus an necessary extra step. Then we tried: 
 
