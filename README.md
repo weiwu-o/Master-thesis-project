@@ -6,7 +6,7 @@ Sequential Anomaly Detection for Log Data Using Deep Learning
 
 The main sourse is a articel from logPAI: <https://www.cs.utah.edu/~lifeifei/papers/deeplog.pdf>
 
-And we uesed their data and build a model:
+And we uesed their data (HDFS) and build a model:
 
 - Unidirecitonal Long short-term Memory (Uni-LSTN)
 
