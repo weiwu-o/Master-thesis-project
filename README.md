@@ -1,5 +1,4 @@
 
-![Screenshot](image_workflow.jpg)
 # Master-thesis-project
 Sequential Anomaly Detection for Log Data Using Deep Learning
 
@@ -24,6 +23,7 @@ and
 
 - Transformer
 
+![Screenshot](image_workflow.jpg)
 **Conclusion**
 
 Uniditrctional Long short-term Memory works best for both Volov data and HDFS data.
