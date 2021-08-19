@@ -22,8 +22,12 @@ and
 
 - Transformer
 
-
-![Screenshot](image_workflow.jpg)
 **Conclusion**
 
-Uniditrctional Long short-term Memory works best for both Volov data and HDFS data.
+```
+Uniditrctional Long short-term Memory (Uni-LSTM) model works best for both Volov data and HDFS data.
+```
+
+Whole workflow below:
+![Screenshot](image_workflow.jpg)
+ 
