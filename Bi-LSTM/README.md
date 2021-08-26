@@ -1,6 +1,6 @@
 ```mermaid
 graph LR
-   A[Data] --> B[Data prepricessing]
+   A[Data] -- Regex and Tokenization--> B[Data prepricessing]
 
    
    B -- Use keras-->D[Create windows]
